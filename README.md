@@ -78,11 +78,15 @@ Full results in `/results/` folder. The model excels in zones with fewer layers,
 ## Installation
 
 1. Clone the repo:
+   ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
    cd YOUR_REPO_NAME
-2. Install dependencies:
+   ```
+3. Install dependencies:
+   ```bash
    pip install -r requirements.txt
-3. (Optional) For GPU: Ensure CUDA 12.x is installed for CuPy.
+   ```
+5. (Optional) For GPU: Ensure CUDA 12.x is installed for CuPy.
 
 ## Usage
 
