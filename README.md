@@ -103,9 +103,6 @@ best_sample = sampleset.first.sample
 all_sas_paths.append(extract_path(best_sample, start_node, target_node, edge_vars))
 ```
 
-## Contributing
-Contributions welcome! See CONTRIBUTING.md for guidelines. Open issues for bugs or features.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
