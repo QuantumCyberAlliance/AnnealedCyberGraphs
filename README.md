@@ -79,8 +79,8 @@ Full results in `/results/` folder. The model excels in zones with fewer layers,
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/QuantumCyberAlliance/AnnealedCyberGraphs.git
+   cd AnnealedCyberGraphs
    ```
 3. Install dependencies:
    ```bash
