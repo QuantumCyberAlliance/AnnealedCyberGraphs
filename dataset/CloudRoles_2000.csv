@@ -1,0 +1,2001 @@
+role_id,provider,privilege_level,description,privilege_score
+CR00000,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00001,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00002,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR00003,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR00004,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00005,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR00006,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00007,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR00008,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR00009,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00010,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR00011,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00012,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00013,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR00014,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00015,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00016,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR00017,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR00018,Azure,system_admin,High-privilege system-level access.,9
+CR00019,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00020,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR00021,GCP,system_admin,High-privilege system-level access.,7
+CR00022,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00023,GCP,system_admin,High-privilege system-level access.,8
+CR00024,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR00025,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR00026,GCP,tech_user,Basic operational access for assigned services.,3
+CR00027,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR00028,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR00029,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR00030,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR00031,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00032,GCP,tech_user,Basic operational access for assigned services.,2
+CR00033,Azure,tech_user,Basic operational access for assigned services.,2
+CR00034,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00035,Oracle,system_admin,High-privilege system-level access.,7
+CR00036,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00037,AWS,tech_user,Basic operational access for assigned services.,2
+CR00038,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR00039,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00040,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00041,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00042,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00043,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR00044,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00045,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00046,Azure,system_admin,High-privilege system-level access.,8
+CR00047,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00048,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR00049,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR00050,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00051,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00052,GCP,system_admin,High-privilege system-level access.,7
+CR00053,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00054,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00055,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00056,AWS,system_admin,High-privilege system-level access.,9
+CR00057,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00058,AWS,tech_user,Basic operational access for assigned services.,2
+CR00059,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00060,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00061,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR00062,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR00063,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR00064,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00065,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR00066,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00067,AWS,tech_user,Basic operational access for assigned services.,3
+CR00068,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00069,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR00070,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR00071,Oracle,system_admin,High-privilege system-level access.,8
+CR00072,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00073,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR00074,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR00075,AWS,system_admin,High-privilege system-level access.,7
+CR00076,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00077,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00078,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00079,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR00080,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR00081,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00082,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR00083,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR00084,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR00085,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00086,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR00087,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR00088,Azure,security_engineer,Access to security monitoring and policy configuration.,7
+CR00089,GCP,tech_user,Basic operational access for assigned services.,2
+CR00090,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00091,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00092,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR00093,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR00094,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00095,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00096,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00097,GCP,tech_user,Basic operational access for assigned services.,2
+CR00098,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00099,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00100,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00101,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00102,GCP,system_admin,High-privilege system-level access.,8
+CR00103,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR00104,GCP,tech_user,Basic operational access for assigned services.,3
+CR00105,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR00106,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00107,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00108,AWS,tech_user,Basic operational access for assigned services.,2
+CR00109,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00110,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00111,GCP,system_admin,High-privilege system-level access.,7
+CR00112,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00113,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR00114,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00115,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR00116,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00117,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR00118,GCP,tech_user,Basic operational access for assigned services.,3
+CR00119,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR00120,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR00121,Oracle,system_admin,High-privilege system-level access.,8
+CR00122,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00123,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00124,AWS,tech_user,Basic operational access for assigned services.,2
+CR00125,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR00126,GCP,tech_user,Basic operational access for assigned services.,2
+CR00127,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR00128,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR00129,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00130,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00131,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR00132,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR00133,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR00134,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00135,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR00136,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR00137,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR00138,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00139,Oracle,system_admin,High-privilege system-level access.,9
+CR00140,Azure,system_admin,High-privilege system-level access.,8
+CR00141,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR00142,Azure,system_admin,High-privilege system-level access.,9
+CR00143,Azure,security_engineer,Access to security monitoring and policy configuration.,7
+CR00144,Oracle,system_admin,High-privilege system-level access.,7
+CR00145,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00146,Azure,system_admin,High-privilege system-level access.,7
+CR00147,Azure,system_admin,High-privilege system-level access.,7
+CR00148,Azure,system_admin,High-privilege system-level access.,7
+CR00149,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR00150,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR00151,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR00152,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR00153,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00154,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR00155,AWS,system_admin,High-privilege system-level access.,9
+CR00156,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00157,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR00158,Azure,tech_user,Basic operational access for assigned services.,3
+CR00159,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR00160,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR00161,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00162,GCP,system_admin,High-privilege system-level access.,8
+CR00163,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00164,Oracle,system_admin,High-privilege system-level access.,8
+CR00165,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00166,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00167,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00168,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR00169,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR00170,GCP,tech_user,Basic operational access for assigned services.,2
+CR00171,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR00172,GCP,tech_user,Basic operational access for assigned services.,2
+CR00173,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR00174,AWS,system_admin,High-privilege system-level access.,9
+CR00175,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00176,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00177,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR00178,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00179,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00180,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00181,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR00182,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00183,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00184,Azure,security_engineer,Access to security monitoring and policy configuration.,7
+CR00185,GCP,tech_user,Basic operational access for assigned services.,3
+CR00186,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00187,GCP,system_admin,High-privilege system-level access.,9
+CR00188,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR00189,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00190,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00191,Azure,tech_user,Basic operational access for assigned services.,2
+CR00192,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR00193,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR00194,Azure,system_admin,High-privilege system-level access.,7
+CR00195,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR00196,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR00197,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR00198,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR00199,AWS,tech_user,Basic operational access for assigned services.,3
+CR00200,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00201,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00202,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR00203,AWS,tech_user,Basic operational access for assigned services.,3
+CR00204,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00205,GCP,system_admin,High-privilege system-level access.,9
+CR00206,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR00207,Azure,system_admin,High-privilege system-level access.,8
+CR00208,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR00209,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00210,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00211,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00212,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR00213,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00214,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR00215,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR00216,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR00217,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00218,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00219,GCP,tech_user,Basic operational access for assigned services.,3
+CR00220,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00221,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR00222,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR00223,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR00224,AWS,system_admin,High-privilege system-level access.,8
+CR00225,Oracle,system_admin,High-privilege system-level access.,7
+CR00226,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR00227,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR00228,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR00229,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00230,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR00231,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR00232,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00233,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00234,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00235,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00236,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR00237,Azure,tech_user,Basic operational access for assigned services.,3
+CR00238,GCP,system_admin,High-privilege system-level access.,8
+CR00239,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR00240,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00241,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR00242,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00243,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00244,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR00245,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00246,AWS,system_admin,High-privilege system-level access.,9
+CR00247,Azure,tech_user,Basic operational access for assigned services.,2
+CR00248,Azure,system_admin,High-privilege system-level access.,8
+CR00249,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00250,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR00251,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR00252,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR00253,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00254,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00255,AWS,system_admin,High-privilege system-level access.,7
+CR00256,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00257,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR00258,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00259,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00260,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00261,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00262,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00263,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR00264,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00265,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00266,AWS,system_admin,High-privilege system-level access.,7
+CR00267,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00268,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00269,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00270,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00271,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR00272,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR00273,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00274,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00275,AWS,system_admin,High-privilege system-level access.,9
+CR00276,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00277,GCP,system_admin,High-privilege system-level access.,7
+CR00278,GCP,tech_user,Basic operational access for assigned services.,3
+CR00279,GCP,tech_user,Basic operational access for assigned services.,3
+CR00280,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR00281,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR00282,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00283,GCP,system_admin,High-privilege system-level access.,9
+CR00284,Azure,tech_user,Basic operational access for assigned services.,2
+CR00285,GCP,tech_user,Basic operational access for assigned services.,3
+CR00286,Azure,system_admin,High-privilege system-level access.,9
+CR00287,GCP,tech_user,Basic operational access for assigned services.,3
+CR00288,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00289,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR00290,Azure,system_admin,High-privilege system-level access.,7
+CR00291,AWS,system_admin,High-privilege system-level access.,9
+CR00292,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00293,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00294,Azure,system_admin,High-privilege system-level access.,8
+CR00295,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00296,Oracle,system_admin,High-privilege system-level access.,9
+CR00297,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR00298,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00299,Azure,system_admin,High-privilege system-level access.,9
+CR00300,Oracle,system_admin,High-privilege system-level access.,8
+CR00301,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR00302,Oracle,system_admin,High-privilege system-level access.,8
+CR00303,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR00304,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR00305,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00306,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00307,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00308,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR00309,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00310,Oracle,system_admin,High-privilege system-level access.,8
+CR00311,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR00312,Azure,system_admin,High-privilege system-level access.,9
+CR00313,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00314,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00315,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR00316,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00317,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00318,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR00319,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR00320,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00321,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR00322,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR00323,GCP,system_admin,High-privilege system-level access.,9
+CR00324,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00325,Oracle,system_admin,High-privilege system-level access.,9
+CR00326,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00327,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00328,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00329,GCP,system_admin,High-privilege system-level access.,7
+CR00330,Azure,tech_user,Basic operational access for assigned services.,3
+CR00331,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR00332,Oracle,system_admin,High-privilege system-level access.,7
+CR00333,GCP,tech_user,Basic operational access for assigned services.,3
+CR00334,AWS,system_admin,High-privilege system-level access.,7
+CR00335,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00336,Azure,tech_user,Basic operational access for assigned services.,2
+CR00337,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00338,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00339,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR00340,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00341,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR00342,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00343,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR00344,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR00345,AWS,system_admin,High-privilege system-level access.,8
+CR00346,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00347,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00348,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR00349,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00350,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00351,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00352,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR00353,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR00354,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR00355,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00356,GCP,tech_user,Basic operational access for assigned services.,3
+CR00357,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00358,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR00359,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00360,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00361,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00362,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00363,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00364,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR00365,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR00366,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00367,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00368,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR00369,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR00370,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00371,GCP,tech_user,Basic operational access for assigned services.,3
+CR00372,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR00373,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00374,AWS,tech_user,Basic operational access for assigned services.,3
+CR00375,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00376,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00377,AWS,tech_user,Basic operational access for assigned services.,2
+CR00378,AWS,system_admin,High-privilege system-level access.,8
+CR00379,AWS,system_admin,High-privilege system-level access.,8
+CR00380,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR00381,GCP,tech_user,Basic operational access for assigned services.,2
+CR00382,AWS,system_admin,High-privilege system-level access.,7
+CR00383,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00384,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR00385,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR00386,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00387,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00388,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00389,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00390,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00391,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR00392,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00393,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00394,Azure,system_admin,High-privilege system-level access.,7
+CR00395,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00396,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00397,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00398,GCP,tech_user,Basic operational access for assigned services.,2
+CR00399,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR00400,GCP,system_admin,High-privilege system-level access.,7
+CR00401,AWS,system_admin,High-privilege system-level access.,9
+CR00402,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR00403,GCP,tech_user,Basic operational access for assigned services.,3
+CR00404,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00405,Azure,system_admin,High-privilege system-level access.,7
+CR00406,AWS,system_admin,High-privilege system-level access.,7
+CR00407,GCP,system_admin,High-privilege system-level access.,8
+CR00408,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00409,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR00410,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR00411,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR00412,Azure,system_admin,High-privilege system-level access.,7
+CR00413,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR00414,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR00415,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00416,Azure,system_admin,High-privilege system-level access.,7
+CR00417,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR00418,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR00419,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR00420,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00421,Azure,system_admin,High-privilege system-level access.,7
+CR00422,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR00423,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00424,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR00425,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR00426,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00427,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00428,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR00429,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00430,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR00431,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR00432,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR00433,Azure,tech_user,Basic operational access for assigned services.,3
+CR00434,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR00435,GCP,system_admin,High-privilege system-level access.,7
+CR00436,AWS,tech_user,Basic operational access for assigned services.,3
+CR00437,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00438,GCP,system_admin,High-privilege system-level access.,9
+CR00439,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR00440,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR00441,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR00442,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00443,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00444,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00445,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00446,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR00447,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR00448,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00449,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR00450,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00451,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR00452,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR00453,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00454,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR00455,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR00456,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00457,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR00458,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR00459,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00460,GCP,system_admin,High-privilege system-level access.,8
+CR00461,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR00462,AWS,system_admin,High-privilege system-level access.,8
+CR00463,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR00464,Azure,tech_user,Basic operational access for assigned services.,3
+CR00465,AWS,system_admin,High-privilege system-level access.,9
+CR00466,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00467,Azure,tech_user,Basic operational access for assigned services.,3
+CR00468,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR00469,Azure,security_engineer,Access to security monitoring and policy configuration.,7
+CR00470,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR00471,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00472,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00473,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00474,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00475,AWS,system_admin,High-privilege system-level access.,9
+CR00476,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00477,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00478,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR00479,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR00480,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR00481,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00482,Oracle,system_admin,High-privilege system-level access.,7
+CR00483,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR00484,Azure,tech_user,Basic operational access for assigned services.,3
+CR00485,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR00486,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00487,Azure,system_admin,High-privilege system-level access.,9
+CR00488,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR00489,Azure,system_admin,High-privilege system-level access.,8
+CR00490,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00491,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR00492,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR00493,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR00494,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR00495,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00496,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR00497,Azure,system_admin,High-privilege system-level access.,7
+CR00498,GCP,system_admin,High-privilege system-level access.,7
+CR00499,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR00500,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00501,AWS,tech_user,Basic operational access for assigned services.,2
+CR00502,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR00503,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00504,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR00505,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR00506,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00507,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00508,GCP,tech_user,Basic operational access for assigned services.,3
+CR00509,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00510,Azure,system_admin,High-privilege system-level access.,9
+CR00511,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00512,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00513,GCP,tech_user,Basic operational access for assigned services.,2
+CR00514,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00515,AWS,tech_user,Basic operational access for assigned services.,3
+CR00516,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR00517,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR00518,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00519,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR00520,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR00521,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00522,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR00523,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00524,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR00525,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR00526,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00527,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00528,GCP,tech_user,Basic operational access for assigned services.,3
+CR00529,GCP,system_admin,High-privilege system-level access.,8
+CR00530,AWS,system_admin,High-privilege system-level access.,7
+CR00531,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR00532,Oracle,system_admin,High-privilege system-level access.,8
+CR00533,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00534,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00535,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00536,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00537,Azure,system_admin,High-privilege system-level access.,7
+CR00538,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR00539,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR00540,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR00541,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR00542,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00543,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00544,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR00545,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00546,Azure,system_admin,High-privilege system-level access.,8
+CR00547,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00548,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00549,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00550,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00551,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR00552,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00553,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00554,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00555,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00556,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00557,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00558,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00559,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00560,Oracle,system_admin,High-privilege system-level access.,8
+CR00561,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR00562,Azure,tech_user,Basic operational access for assigned services.,3
+CR00563,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR00564,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00565,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR00566,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR00567,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR00568,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00569,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00570,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR00571,Azure,system_admin,High-privilege system-level access.,7
+CR00572,Azure,system_admin,High-privilege system-level access.,8
+CR00573,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR00574,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR00575,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00576,Azure,system_admin,High-privilege system-level access.,8
+CR00577,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR00578,GCP,tech_user,Basic operational access for assigned services.,2
+CR00579,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00580,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR00581,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00582,AWS,system_admin,High-privilege system-level access.,8
+CR00583,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR00584,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00585,GCP,system_admin,High-privilege system-level access.,8
+CR00586,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR00587,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00588,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR00589,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR00590,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00591,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR00592,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00593,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR00594,GCP,system_admin,High-privilege system-level access.,8
+CR00595,Azure,tech_user,Basic operational access for assigned services.,2
+CR00596,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00597,AWS,tech_user,Basic operational access for assigned services.,3
+CR00598,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR00599,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR00600,Oracle,system_admin,High-privilege system-level access.,7
+CR00601,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR00602,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00603,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00604,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR00605,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR00606,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR00607,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR00608,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR00609,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR00610,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00611,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00612,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00613,GCP,system_admin,High-privilege system-level access.,8
+CR00614,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR00615,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00616,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00617,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR00618,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR00619,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR00620,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00621,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR00622,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00623,Oracle,system_admin,High-privilege system-level access.,8
+CR00624,Azure,tech_user,Basic operational access for assigned services.,3
+CR00625,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR00626,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00627,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00628,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00629,Oracle,system_admin,High-privilege system-level access.,8
+CR00630,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR00631,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR00632,AWS,tech_user,Basic operational access for assigned services.,3
+CR00633,Oracle,system_admin,High-privilege system-level access.,9
+CR00634,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00635,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00636,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR00637,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR00638,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00639,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00640,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR00641,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00642,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR00643,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR00644,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00645,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR00646,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00647,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00648,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00649,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR00650,AWS,system_admin,High-privilege system-level access.,8
+CR00651,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR00652,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR00653,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00654,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR00655,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00656,Azure,system_admin,High-privilege system-level access.,7
+CR00657,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR00658,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR00659,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR00660,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR00661,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR00662,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00663,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR00664,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00665,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR00666,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00667,GCP,system_admin,High-privilege system-level access.,7
+CR00668,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR00669,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR00670,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00671,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00672,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00673,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR00674,Oracle,system_admin,High-privilege system-level access.,8
+CR00675,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR00676,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00677,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00678,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR00679,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00680,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00681,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR00682,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00683,Oracle,system_admin,High-privilege system-level access.,9
+CR00684,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00685,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR00686,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR00687,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00688,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR00689,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00690,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00691,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR00692,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00693,GCP,system_admin,High-privilege system-level access.,7
+CR00694,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00695,AWS,system_admin,High-privilege system-level access.,7
+CR00696,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR00697,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR00698,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00699,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR00700,Azure,tech_user,Basic operational access for assigned services.,3
+CR00701,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR00702,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00703,GCP,tech_user,Basic operational access for assigned services.,3
+CR00704,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00705,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR00706,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00707,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00708,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR00709,Azure,system_admin,High-privilege system-level access.,8
+CR00710,Oracle,system_admin,High-privilege system-level access.,9
+CR00711,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00712,AWS,system_admin,High-privilege system-level access.,8
+CR00713,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00714,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00715,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR00716,Azure,system_admin,High-privilege system-level access.,7
+CR00717,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR00718,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00719,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR00720,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR00721,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00722,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR00723,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00724,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR00725,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR00726,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00727,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00728,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR00729,AWS,system_admin,High-privilege system-level access.,8
+CR00730,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00731,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00732,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR00733,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00734,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00735,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00736,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00737,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00738,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00739,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00740,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00741,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR00742,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00743,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR00744,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00745,Azure,system_admin,High-privilege system-level access.,9
+CR00746,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00747,Oracle,system_admin,High-privilege system-level access.,7
+CR00748,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00749,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR00750,Oracle,system_admin,High-privilege system-level access.,8
+CR00751,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00752,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00753,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR00754,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00755,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00756,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR00757,Oracle,system_admin,High-privilege system-level access.,7
+CR00758,GCP,system_admin,High-privilege system-level access.,7
+CR00759,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR00760,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR00761,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR00762,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR00763,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00764,GCP,tech_user,Basic operational access for assigned services.,2
+CR00765,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00766,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR00767,GCP,tech_user,Basic operational access for assigned services.,2
+CR00768,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR00769,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00770,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00771,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR00772,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00773,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR00774,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00775,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR00776,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00777,GCP,tech_user,Basic operational access for assigned services.,3
+CR00778,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR00779,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR00780,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR00781,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR00782,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00783,GCP,system_admin,High-privilege system-level access.,8
+CR00784,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00785,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR00786,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR00787,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR00788,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR00789,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR00790,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR00791,Azure,tech_user,Basic operational access for assigned services.,3
+CR00792,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00793,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR00794,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00795,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR00796,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00797,Oracle,system_admin,High-privilege system-level access.,9
+CR00798,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR00799,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00800,AWS,tech_user,Basic operational access for assigned services.,2
+CR00801,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR00802,Azure,system_admin,High-privilege system-level access.,7
+CR00803,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00804,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR00805,Azure,system_admin,High-privilege system-level access.,9
+CR00806,AWS,tech_user,Basic operational access for assigned services.,3
+CR00807,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR00808,GCP,tech_user,Basic operational access for assigned services.,3
+CR00809,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00810,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00811,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR00812,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00813,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00814,AWS,tech_user,Basic operational access for assigned services.,3
+CR00815,Azure,read_only,Limited read-only access to cloud resources.,2
+CR00816,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR00817,Oracle,system_admin,High-privilege system-level access.,7
+CR00818,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00819,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR00820,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00821,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00822,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR00823,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR00824,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR00825,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR00826,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR00827,GCP,tech_user,Basic operational access for assigned services.,2
+CR00828,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR00829,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00830,GCP,system_admin,High-privilege system-level access.,8
+CR00831,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00832,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00833,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR00834,AWS,system_admin,High-privilege system-level access.,9
+CR00835,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR00836,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR00837,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00838,AWS,system_admin,High-privilege system-level access.,9
+CR00839,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00840,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR00841,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR00842,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR00843,AWS,tech_user,Basic operational access for assigned services.,3
+CR00844,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00845,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00846,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR00847,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR00848,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00849,AWS,system_admin,High-privilege system-level access.,9
+CR00850,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR00851,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR00852,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR00853,Azure,system_admin,High-privilege system-level access.,9
+CR00854,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00855,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00856,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00857,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00858,GCP,system_admin,High-privilege system-level access.,9
+CR00859,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR00860,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR00861,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00862,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00863,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR00864,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR00865,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00866,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00867,Azure,system_admin,High-privilege system-level access.,7
+CR00868,GCP,tech_user,Basic operational access for assigned services.,2
+CR00869,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR00870,AWS,tech_user,Basic operational access for assigned services.,2
+CR00871,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00872,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR00873,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR00874,AWS,tech_user,Basic operational access for assigned services.,2
+CR00875,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR00876,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR00877,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR00878,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR00879,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00880,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00881,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00882,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00883,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00884,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00885,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00886,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR00887,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00888,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00889,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00890,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00891,Azure,security_engineer,Access to security monitoring and policy configuration.,7
+CR00892,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00893,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00894,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR00895,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR00896,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00897,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR00898,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR00899,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR00900,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR00901,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR00902,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00903,AWS,tech_user,Basic operational access for assigned services.,3
+CR00904,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00905,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00906,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00907,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR00908,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR00909,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR00910,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR00911,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00912,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00913,GCP,system_admin,High-privilege system-level access.,9
+CR00914,Azure,tech_user,Basic operational access for assigned services.,2
+CR00915,Oracle,tech_user,Basic operational access for assigned services.,2
+CR00916,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR00917,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00918,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00919,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00920,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00921,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00922,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR00923,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR00924,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR00925,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR00926,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00927,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR00928,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00929,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00930,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00931,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00932,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR00933,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR00934,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR00935,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR00936,GCP,system_admin,High-privilege system-level access.,8
+CR00937,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00938,AWS,tech_user,Basic operational access for assigned services.,2
+CR00939,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR00940,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR00941,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR00942,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR00943,GCP,tech_user,Basic operational access for assigned services.,2
+CR00944,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00945,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR00946,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR00947,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR00948,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR00949,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR00950,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00951,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR00952,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR00953,GCP,tech_user,Basic operational access for assigned services.,2
+CR00954,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR00955,AWS,system_admin,High-privilege system-level access.,8
+CR00956,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00957,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00958,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR00959,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR00960,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR00961,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR00962,Oracle,tech_user,Basic operational access for assigned services.,3
+CR00963,AWS,system_admin,High-privilege system-level access.,8
+CR00964,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR00965,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR00966,Azure,read_only,Limited read-only access to cloud resources.,1
+CR00967,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00968,GCP,read_only,Limited read-only access to cloud resources.,2
+CR00969,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR00970,Azure,system_admin,High-privilege system-level access.,7
+CR00971,AWS,system_admin,High-privilege system-level access.,8
+CR00972,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR00973,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR00974,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR00975,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR00976,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00977,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR00978,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00979,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR00980,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR00981,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR00982,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR00983,Azure,tech_user,Basic operational access for assigned services.,2
+CR00984,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR00985,GCP,read_only,Limited read-only access to cloud resources.,1
+CR00986,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR00987,AWS,read_only,Limited read-only access to cloud resources.,1
+CR00988,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR00989,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR00990,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR00991,Azure,system_admin,High-privilege system-level access.,9
+CR00992,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR00993,AWS,read_only,Limited read-only access to cloud resources.,2
+CR00994,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR00995,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR00996,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR00997,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR00998,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR00999,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01000,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR01001,GCP,tech_user,Basic operational access for assigned services.,3
+CR01002,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR01003,Azure,system_admin,High-privilege system-level access.,9
+CR01004,Oracle,system_admin,High-privilege system-level access.,8
+CR01005,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR01006,GCP,read_only,Limited read-only access to cloud resources.,2
+CR01007,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01008,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01009,Azure,security_engineer,Access to security monitoring and policy configuration.,7
+CR01010,AWS,system_admin,High-privilege system-level access.,9
+CR01011,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01012,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01013,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR01014,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR01015,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01016,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01017,AWS,system_admin,High-privilege system-level access.,7
+CR01018,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01019,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01020,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR01021,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01022,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR01023,GCP,system_admin,High-privilege system-level access.,8
+CR01024,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01025,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR01026,Azure,security_engineer,Access to security monitoring and policy configuration.,7
+CR01027,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR01028,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01029,AWS,tech_user,Basic operational access for assigned services.,2
+CR01030,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01031,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR01032,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01033,GCP,tech_user,Basic operational access for assigned services.,3
+CR01034,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR01035,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01036,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01037,AWS,tech_user,Basic operational access for assigned services.,2
+CR01038,GCP,system_admin,High-privilege system-level access.,9
+CR01039,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR01040,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR01041,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01042,GCP,system_admin,High-privilege system-level access.,7
+CR01043,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01044,Oracle,tech_user,Basic operational access for assigned services.,3
+CR01045,GCP,tech_user,Basic operational access for assigned services.,3
+CR01046,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01047,Oracle,system_admin,High-privilege system-level access.,9
+CR01048,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR01049,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR01050,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR01051,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR01052,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR01053,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01054,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR01055,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR01056,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01057,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01058,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01059,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR01060,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR01061,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01062,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01063,Azure,tech_user,Basic operational access for assigned services.,2
+CR01064,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01065,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01066,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01067,AWS,tech_user,Basic operational access for assigned services.,3
+CR01068,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR01069,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01070,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01071,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01072,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR01073,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01074,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01075,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR01076,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01077,Oracle,system_admin,High-privilege system-level access.,9
+CR01078,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR01079,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR01080,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR01081,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR01082,Azure,tech_user,Basic operational access for assigned services.,3
+CR01083,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR01084,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR01085,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01086,GCP,system_admin,High-privilege system-level access.,9
+CR01087,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01088,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01089,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01090,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01091,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR01092,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR01093,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01094,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01095,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR01096,Azure,tech_user,Basic operational access for assigned services.,2
+CR01097,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01098,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01099,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR01100,Azure,tech_user,Basic operational access for assigned services.,2
+CR01101,Oracle,system_admin,High-privilege system-level access.,7
+CR01102,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01103,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR01104,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR01105,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01106,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01107,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR01108,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01109,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR01110,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR01111,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01112,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR01113,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01114,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01115,GCP,system_admin,High-privilege system-level access.,9
+CR01116,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01117,Azure,system_admin,High-privilege system-level access.,9
+CR01118,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR01119,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01120,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01121,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR01122,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01123,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01124,AWS,system_admin,High-privilege system-level access.,9
+CR01125,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR01126,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR01127,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR01128,AWS,tech_user,Basic operational access for assigned services.,3
+CR01129,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01130,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01131,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR01132,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01133,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01134,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01135,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01136,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01137,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01138,Azure,system_admin,High-privilege system-level access.,9
+CR01139,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR01140,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR01141,AWS,tech_user,Basic operational access for assigned services.,3
+CR01142,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR01143,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR01144,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01145,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR01146,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR01147,Oracle,system_admin,High-privilege system-level access.,9
+CR01148,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01149,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR01150,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01151,Oracle,tech_user,Basic operational access for assigned services.,3
+CR01152,Oracle,system_admin,High-privilege system-level access.,9
+CR01153,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR01154,Azure,security_engineer,Access to security monitoring and policy configuration.,7
+CR01155,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01156,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR01157,GCP,system_admin,High-privilege system-level access.,7
+CR01158,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR01159,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR01160,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR01161,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01162,GCP,system_admin,High-privilege system-level access.,8
+CR01163,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01164,GCP,tech_user,Basic operational access for assigned services.,3
+CR01165,AWS,system_admin,High-privilege system-level access.,7
+CR01166,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01167,AWS,system_admin,High-privilege system-level access.,8
+CR01168,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01169,Azure,system_admin,High-privilege system-level access.,8
+CR01170,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR01171,GCP,system_admin,High-privilege system-level access.,8
+CR01172,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01173,AWS,tech_user,Basic operational access for assigned services.,2
+CR01174,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01175,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01176,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01177,GCP,system_admin,High-privilege system-level access.,7
+CR01178,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR01179,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR01180,AWS,tech_user,Basic operational access for assigned services.,3
+CR01181,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01182,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01183,GCP,system_admin,High-privilege system-level access.,8
+CR01184,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR01185,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR01186,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR01187,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01188,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01189,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01190,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR01191,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR01192,AWS,system_admin,High-privilege system-level access.,9
+CR01193,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01194,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR01195,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01196,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01197,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01198,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR01199,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01200,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR01201,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01202,AWS,tech_user,Basic operational access for assigned services.,2
+CR01203,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01204,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01205,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01206,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01207,AWS,tech_user,Basic operational access for assigned services.,3
+CR01208,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR01209,Azure,tech_user,Basic operational access for assigned services.,2
+CR01210,AWS,system_admin,High-privilege system-level access.,9
+CR01211,Azure,tech_user,Basic operational access for assigned services.,2
+CR01212,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01213,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01214,GCP,tech_user,Basic operational access for assigned services.,2
+CR01215,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01216,GCP,system_admin,High-privilege system-level access.,7
+CR01217,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01218,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01219,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR01220,Azure,system_admin,High-privilege system-level access.,9
+CR01221,GCP,system_admin,High-privilege system-level access.,9
+CR01222,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01223,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR01224,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01225,Azure,system_admin,High-privilege system-level access.,7
+CR01226,GCP,read_only,Limited read-only access to cloud resources.,2
+CR01227,Azure,tech_user,Basic operational access for assigned services.,3
+CR01228,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR01229,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01230,GCP,system_admin,High-privilege system-level access.,9
+CR01231,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01232,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01233,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR01234,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01235,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR01236,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01237,Azure,tech_user,Basic operational access for assigned services.,3
+CR01238,GCP,tech_user,Basic operational access for assigned services.,2
+CR01239,AWS,system_admin,High-privilege system-level access.,9
+CR01240,Oracle,system_admin,High-privilege system-level access.,7
+CR01241,Azure,system_admin,High-privilege system-level access.,7
+CR01242,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01243,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR01244,AWS,system_admin,High-privilege system-level access.,8
+CR01245,AWS,tech_user,Basic operational access for assigned services.,2
+CR01246,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01247,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01248,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01249,GCP,tech_user,Basic operational access for assigned services.,2
+CR01250,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01251,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01252,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01253,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01254,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01255,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01256,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR01257,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR01258,Azure,tech_user,Basic operational access for assigned services.,2
+CR01259,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR01260,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR01261,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01262,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01263,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01264,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR01265,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01266,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR01267,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01268,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR01269,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01270,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR01271,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01272,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01273,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01274,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR01275,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR01276,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01277,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR01278,GCP,read_only,Limited read-only access to cloud resources.,2
+CR01279,Azure,system_admin,High-privilege system-level access.,7
+CR01280,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01281,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01282,Azure,tech_user,Basic operational access for assigned services.,3
+CR01283,GCP,read_only,Limited read-only access to cloud resources.,2
+CR01284,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01285,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR01286,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR01287,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR01288,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01289,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR01290,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01291,AWS,tech_user,Basic operational access for assigned services.,2
+CR01292,Oracle,system_admin,High-privilege system-level access.,8
+CR01293,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01294,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR01295,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01296,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR01297,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR01298,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01299,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR01300,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01301,Oracle,tech_user,Basic operational access for assigned services.,3
+CR01302,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01303,AWS,tech_user,Basic operational access for assigned services.,3
+CR01304,GCP,tech_user,Basic operational access for assigned services.,2
+CR01305,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01306,AWS,tech_user,Basic operational access for assigned services.,2
+CR01307,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR01308,Azure,system_admin,High-privilege system-level access.,9
+CR01309,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01310,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01311,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR01312,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01313,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01314,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR01315,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR01316,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01317,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01318,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR01319,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01320,Oracle,tech_user,Basic operational access for assigned services.,3
+CR01321,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR01322,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01323,Azure,tech_user,Basic operational access for assigned services.,3
+CR01324,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR01325,Azure,tech_user,Basic operational access for assigned services.,3
+CR01326,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01327,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01328,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01329,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR01330,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR01331,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01332,AWS,system_admin,High-privilege system-level access.,8
+CR01333,AWS,tech_user,Basic operational access for assigned services.,2
+CR01334,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01335,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01336,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR01337,Azure,system_admin,High-privilege system-level access.,7
+CR01338,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01339,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR01340,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01341,Oracle,system_admin,High-privilege system-level access.,8
+CR01342,AWS,system_admin,High-privilege system-level access.,7
+CR01343,Azure,system_admin,High-privilege system-level access.,9
+CR01344,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01345,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR01346,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01347,AWS,tech_user,Basic operational access for assigned services.,3
+CR01348,GCP,system_admin,High-privilege system-level access.,7
+CR01349,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01350,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR01351,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01352,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01353,GCP,tech_user,Basic operational access for assigned services.,2
+CR01354,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01355,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01356,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01357,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01358,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01359,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR01360,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR01361,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR01362,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR01363,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR01364,AWS,system_admin,High-privilege system-level access.,9
+CR01365,Azure,system_admin,High-privilege system-level access.,7
+CR01366,Azure,system_admin,High-privilege system-level access.,8
+CR01367,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR01368,Oracle,tech_user,Basic operational access for assigned services.,3
+CR01369,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01370,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR01371,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01372,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01373,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR01374,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01375,GCP,tech_user,Basic operational access for assigned services.,2
+CR01376,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR01377,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR01378,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR01379,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR01380,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01381,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01382,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01383,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR01384,AWS,system_admin,High-privilege system-level access.,7
+CR01385,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01386,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR01387,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01388,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01389,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR01390,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR01391,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR01392,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01393,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01394,Azure,system_admin,High-privilege system-level access.,9
+CR01395,AWS,tech_user,Basic operational access for assigned services.,3
+CR01396,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01397,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01398,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR01399,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR01400,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01401,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01402,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01403,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01404,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR01405,GCP,tech_user,Basic operational access for assigned services.,2
+CR01406,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01407,GCP,tech_user,Basic operational access for assigned services.,2
+CR01408,GCP,tech_user,Basic operational access for assigned services.,3
+CR01409,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR01410,GCP,tech_user,Basic operational access for assigned services.,2
+CR01411,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01412,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01413,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01414,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR01415,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01416,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01417,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR01418,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR01419,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01420,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR01421,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR01422,Azure,tech_user,Basic operational access for assigned services.,3
+CR01423,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01424,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01425,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01426,GCP,system_admin,High-privilege system-level access.,7
+CR01427,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR01428,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01429,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01430,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR01431,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01432,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01433,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR01434,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR01435,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01436,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR01437,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01438,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR01439,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01440,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01441,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01442,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01443,Oracle,system_admin,High-privilege system-level access.,8
+CR01444,Azure,system_admin,High-privilege system-level access.,8
+CR01445,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR01446,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR01447,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR01448,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01449,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR01450,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR01451,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01452,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR01453,AWS,tech_user,Basic operational access for assigned services.,3
+CR01454,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR01455,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01456,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR01457,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01458,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01459,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01460,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01461,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01462,GCP,system_admin,High-privilege system-level access.,7
+CR01463,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR01464,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01465,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01466,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01467,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01468,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01469,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01470,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR01471,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01472,Azure,tech_user,Basic operational access for assigned services.,2
+CR01473,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01474,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01475,Oracle,system_admin,High-privilege system-level access.,7
+CR01476,AWS,system_admin,High-privilege system-level access.,8
+CR01477,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01478,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR01479,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01480,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR01481,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01482,Azure,security_engineer,Access to security monitoring and policy configuration.,7
+CR01483,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01484,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01485,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01486,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR01487,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01488,Oracle,system_admin,High-privilege system-level access.,7
+CR01489,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01490,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR01491,DigitalOcean,system_admin,High-privilege system-level access.,9
+CR01492,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01493,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01494,AWS,tech_user,Basic operational access for assigned services.,2
+CR01495,GCP,system_admin,High-privilege system-level access.,9
+CR01496,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01497,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR01498,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01499,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01500,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01501,Azure,tech_user,Basic operational access for assigned services.,2
+CR01502,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR01503,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR01504,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR01505,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR01506,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01507,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR01508,Azure,system_admin,High-privilege system-level access.,7
+CR01509,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01510,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01511,AWS,system_admin,High-privilege system-level access.,7
+CR01512,Oracle,tech_user,Basic operational access for assigned services.,3
+CR01513,AWS,tech_user,Basic operational access for assigned services.,2
+CR01514,GCP,system_admin,High-privilege system-level access.,8
+CR01515,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01516,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR01517,Azure,security_engineer,Access to security monitoring and policy configuration.,7
+CR01518,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01519,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR01520,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01521,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01522,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01523,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01524,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR01525,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR01526,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR01527,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01528,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01529,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01530,Oracle,system_admin,High-privilege system-level access.,8
+CR01531,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR01532,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01533,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR01534,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01535,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01536,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01537,Azure,system_admin,High-privilege system-level access.,8
+CR01538,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01539,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR01540,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR01541,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01542,Azure,tech_user,Basic operational access for assigned services.,3
+CR01543,Oracle,tech_user,Basic operational access for assigned services.,3
+CR01544,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01545,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01546,GCP,system_admin,High-privilege system-level access.,9
+CR01547,GCP,system_admin,High-privilege system-level access.,7
+CR01548,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01549,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01550,Azure,tech_user,Basic operational access for assigned services.,2
+CR01551,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR01552,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01553,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01554,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR01555,GCP,tech_user,Basic operational access for assigned services.,3
+CR01556,GCP,tech_user,Basic operational access for assigned services.,3
+CR01557,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01558,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01559,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01560,AWS,tech_user,Basic operational access for assigned services.,2
+CR01561,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR01562,AWS,system_admin,High-privilege system-level access.,8
+CR01563,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01564,Azure,tech_user,Basic operational access for assigned services.,3
+CR01565,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR01566,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01567,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01568,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR01569,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR01570,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR01571,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR01572,Oracle,system_admin,High-privilege system-level access.,7
+CR01573,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01574,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01575,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR01576,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR01577,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01578,Oracle,system_admin,High-privilege system-level access.,7
+CR01579,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01580,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01581,Oracle,system_admin,High-privilege system-level access.,7
+CR01582,GCP,system_admin,High-privilege system-level access.,9
+CR01583,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR01584,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01585,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR01586,Azure,developer,Developer-level access to compute and storage APIs.,4
+CR01587,AWS,system_admin,High-privilege system-level access.,9
+CR01588,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01589,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01590,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR01591,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01592,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR01593,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01594,Azure,tech_user,Basic operational access for assigned services.,2
+CR01595,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01596,Oracle,system_admin,High-privilege system-level access.,8
+CR01597,AWS,system_admin,High-privilege system-level access.,8
+CR01598,Azure,tech_user,Basic operational access for assigned services.,2
+CR01599,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01600,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR01601,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01602,Azure,tech_user,Basic operational access for assigned services.,3
+CR01603,GCP,tech_user,Basic operational access for assigned services.,2
+CR01604,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01605,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR01606,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01607,Oracle,system_admin,High-privilege system-level access.,7
+CR01608,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01609,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR01610,Azure,tech_user,Basic operational access for assigned services.,3
+CR01611,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01612,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01613,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR01614,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01615,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01616,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR01617,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01618,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR01619,AWS,tech_user,Basic operational access for assigned services.,2
+CR01620,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01621,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01622,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR01623,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR01624,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01625,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR01626,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01627,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01628,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01629,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR01630,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR01631,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01632,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR01633,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01634,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR01635,GCP,read_only,Limited read-only access to cloud resources.,2
+CR01636,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01637,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01638,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR01639,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01640,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01641,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01642,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01643,Azure,system_admin,High-privilege system-level access.,7
+CR01644,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR01645,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01646,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR01647,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01648,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR01649,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01650,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01651,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR01652,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01653,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01654,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01655,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR01656,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR01657,Oracle,tech_user,Basic operational access for assigned services.,3
+CR01658,GCP,system_admin,High-privilege system-level access.,7
+CR01659,AWS,system_admin,High-privilege system-level access.,7
+CR01660,Oracle,system_admin,High-privilege system-level access.,9
+CR01661,GCP,system_admin,High-privilege system-level access.,7
+CR01662,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR01663,Azure,tech_user,Basic operational access for assigned services.,3
+CR01664,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR01665,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR01666,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01667,GCP,tech_user,Basic operational access for assigned services.,2
+CR01668,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01669,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR01670,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01671,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR01672,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR01673,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR01674,Azure,tech_user,Basic operational access for assigned services.,2
+CR01675,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01676,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01677,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01678,Azure,system_admin,High-privilege system-level access.,7
+CR01679,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01680,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01681,GCP,system_admin,High-privilege system-level access.,7
+CR01682,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01683,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01684,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR01685,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01686,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01687,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR01688,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01689,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01690,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01691,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01692,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01693,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR01694,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR01695,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01696,AWS,tech_user,Basic operational access for assigned services.,2
+CR01697,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01698,Azure,tech_user,Basic operational access for assigned services.,2
+CR01699,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01700,GCP,developer,Developer-level access to compute and storage APIs.,3
+CR01701,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01702,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR01703,AWS,system_admin,High-privilege system-level access.,9
+CR01704,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR01705,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR01706,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01707,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR01708,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01709,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR01710,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01711,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR01712,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR01713,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01714,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01715,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01716,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR01717,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR01718,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01719,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01720,GCP,system_admin,High-privilege system-level access.,8
+CR01721,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR01722,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR01723,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01724,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01725,AWS,tech_user,Basic operational access for assigned services.,2
+CR01726,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01727,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01728,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01729,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01730,GCP,developer,Developer-level access to compute and storage APIs.,5
+CR01731,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR01732,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01733,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01734,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR01735,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01736,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR01737,AWS,system_admin,High-privilege system-level access.,9
+CR01738,Azure,tech_user,Basic operational access for assigned services.,2
+CR01739,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR01740,Oracle,system_admin,High-privilege system-level access.,7
+CR01741,AWS,tech_user,Basic operational access for assigned services.,2
+CR01742,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR01743,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01744,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01745,GCP,read_only,Limited read-only access to cloud resources.,2
+CR01746,GCP,system_admin,High-privilege system-level access.,9
+CR01747,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01748,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01749,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR01750,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR01751,AWS,tech_user,Basic operational access for assigned services.,2
+CR01752,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR01753,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01754,Azure,cloud_super_admin,Global privileged control across provider resources.,11
+CR01755,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01756,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01757,GCP,read_only,Limited read-only access to cloud resources.,2
+CR01758,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR01759,Oracle,tech_user,Basic operational access for assigned services.,3
+CR01760,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01761,GCP,tech_user,Basic operational access for assigned services.,3
+CR01762,GCP,tenant_admin,Full administrative access within a specific tenant.,8
+CR01763,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR01764,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR01765,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR01766,AWS,security_engineer,Access to security monitoring and policy configuration.,6
+CR01767,Oracle,system_admin,High-privilege system-level access.,9
+CR01768,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01769,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR01770,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01771,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01772,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01773,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01774,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01775,AWS,tech_user,Basic operational access for assigned services.,3
+CR01776,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR01777,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01778,GCP,system_admin,High-privilege system-level access.,8
+CR01779,AWS,tech_user,Basic operational access for assigned services.,3
+CR01780,Oracle,system_admin,High-privilege system-level access.,9
+CR01781,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,10
+CR01782,AWS,system_admin,High-privilege system-level access.,7
+CR01783,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,10
+CR01784,Oracle,system_admin,High-privilege system-level access.,9
+CR01785,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR01786,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR01787,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01788,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01789,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01790,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01791,Azure,tech_user,Basic operational access for assigned services.,3
+CR01792,Oracle,developer,Developer-level access to compute and storage APIs.,5
+CR01793,Oracle,system_admin,High-privilege system-level access.,9
+CR01794,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01795,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01796,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01797,GCP,system_admin,High-privilege system-level access.,8
+CR01798,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR01799,GCP,tech_user,Basic operational access for assigned services.,3
+CR01800,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01801,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR01802,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01803,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR01804,Azure,system_admin,High-privilege system-level access.,8
+CR01805,AWS,system_admin,High-privilege system-level access.,7
+CR01806,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01807,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR01808,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01809,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR01810,GCP,system_admin,High-privilege system-level access.,7
+CR01811,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR01812,GCP,system_admin,High-privilege system-level access.,8
+CR01813,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01814,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01815,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01816,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01817,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01818,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01819,AWS,system_admin,High-privilege system-level access.,8
+CR01820,AWS,tech_user,Basic operational access for assigned services.,2
+CR01821,Azure,tenant_admin,Full administrative access within a specific tenant.,8
+CR01822,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01823,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01824,AWS,system_admin,High-privilege system-level access.,9
+CR01825,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR01826,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01827,DigitalOcean,tech_user,Basic operational access for assigned services.,2
+CR01828,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR01829,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01830,Azure,system_admin,High-privilege system-level access.,7
+CR01831,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR01832,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01833,Azure,tech_user,Basic operational access for assigned services.,3
+CR01834,GCP,security_engineer,Access to security monitoring and policy configuration.,5
+CR01835,AWS,system_admin,High-privilege system-level access.,8
+CR01836,AWS,tech_user,Basic operational access for assigned services.,3
+CR01837,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01838,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR01839,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR01840,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR01841,AWS,system_admin,High-privilege system-level access.,9
+CR01842,GCP,tenant_admin,Full administrative access within a specific tenant.,9
+CR01843,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01844,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01845,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01846,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01847,GCP,tech_user,Basic operational access for assigned services.,2
+CR01848,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01849,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01850,AWS,tech_user,Basic operational access for assigned services.,2
+CR01851,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01852,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR01853,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR01854,Oracle,tech_user,Basic operational access for assigned services.,3
+CR01855,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01856,Azure,tenant_admin,Full administrative access within a specific tenant.,10
+CR01857,Oracle,developer,Developer-level access to compute and storage APIs.,3
+CR01858,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01859,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR01860,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01861,AWS,tech_user,Basic operational access for assigned services.,3
+CR01862,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01863,AWS,read_only,Limited read-only access to cloud resources.,2
+CR01864,Oracle,read_only,Limited read-only access to cloud resources.,1
+CR01865,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01866,AWS,tech_user,Basic operational access for assigned services.,2
+CR01867,AWS,developer,Developer-level access to compute and storage APIs.,4
+CR01868,AWS,system_admin,High-privilege system-level access.,7
+CR01869,GCP,system_admin,High-privilege system-level access.,8
+CR01870,AWS,tech_user,Basic operational access for assigned services.,2
+CR01871,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,8
+CR01872,GCP,system_admin,High-privilege system-level access.,9
+CR01873,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR01874,Oracle,system_admin,High-privilege system-level access.,9
+CR01875,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR01876,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01877,AWS,developer,Developer-level access to compute and storage APIs.,5
+CR01878,GCP,tech_user,Basic operational access for assigned services.,3
+CR01879,Azure,system_admin,High-privilege system-level access.,7
+CR01880,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR01881,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01882,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR01883,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01884,AWS,read_only,Limited read-only access to cloud resources.,1
+CR01885,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01886,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01887,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR01888,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR01889,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR01890,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR01891,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01892,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR01893,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01894,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01895,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR01896,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR01897,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01898,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR01899,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR01900,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR01901,Oracle,developer,Developer-level access to compute and storage APIs.,4
+CR01902,Azure,tech_user,Basic operational access for assigned services.,2
+CR01903,DigitalOcean,developer,Developer-level access to compute and storage APIs.,3
+CR01904,DigitalOcean,developer,Developer-level access to compute and storage APIs.,5
+CR01905,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01906,DigitalOcean,tenant_admin,Full administrative access within a specific tenant.,9
+CR01907,Oracle,system_admin,High-privilege system-level access.,7
+CR01908,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01909,GCP,cloud_super_admin,Global privileged control across provider resources.,12
+CR01910,AWS,system_admin,High-privilege system-level access.,7
+CR01911,Oracle,system_admin,High-privilege system-level access.,8
+CR01912,Azure,cloud_super_admin,Global privileged control across provider resources.,12
+CR01913,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01914,AWS,security_engineer,Access to security monitoring and policy configuration.,7
+CR01915,GCP,tech_user,Basic operational access for assigned services.,3
+CR01916,DigitalOcean,read_only,Limited read-only access to cloud resources.,1
+CR01917,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,7
+CR01918,GCP,system_admin,High-privilege system-level access.,9
+CR01919,Oracle,cloud_super_admin,Global privileged control across provider resources.,10
+CR01920,GCP,tech_user,Basic operational access for assigned services.,2
+CR01921,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01922,GCP,system_admin,High-privilege system-level access.,7
+CR01923,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR01924,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR01925,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01926,Oracle,tenant_admin,Full administrative access within a specific tenant.,10
+CR01927,AWS,tenant_admin,Full administrative access within a specific tenant.,10
+CR01928,GCP,security_engineer,Access to security monitoring and policy configuration.,6
+CR01929,DigitalOcean,system_admin,High-privilege system-level access.,8
+CR01930,DigitalOcean,developer,Developer-level access to compute and storage APIs.,4
+CR01931,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01932,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01933,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01934,AWS,security_engineer,Access to security monitoring and policy configuration.,5
+CR01935,Azure,read_only,Limited read-only access to cloud resources.,1
+CR01936,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01937,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01938,GCP,cloud_super_admin,Global privileged control across provider resources.,10
+CR01939,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01940,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01941,Azure,security_engineer,Access to security monitoring and policy configuration.,6
+CR01942,AWS,developer,Developer-level access to compute and storage APIs.,3
+CR01943,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01944,Oracle,read_only,Limited read-only access to cloud resources.,2
+CR01945,GCP,read_only,Limited read-only access to cloud resources.,1
+CR01946,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01947,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01948,AWS,system_admin,High-privilege system-level access.,8
+CR01949,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR01950,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01951,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01952,GCP,security_engineer,Access to security monitoring and policy configuration.,7
+CR01953,AWS,cloud_super_admin,Global privileged control across provider resources.,12
+CR01954,DigitalOcean,read_only,Limited read-only access to cloud resources.,2
+CR01955,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01956,Azure,developer,Developer-level access to compute and storage APIs.,5
+CR01957,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01958,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01959,Oracle,cloud_super_admin,Global privileged control across provider resources.,12
+CR01960,Oracle,security_engineer,Access to security monitoring and policy configuration.,6
+CR01961,AWS,tenant_admin,Full administrative access within a specific tenant.,9
+CR01962,Oracle,system_admin,High-privilege system-level access.,9
+CR01963,Azure,developer,Developer-level access to compute and storage APIs.,3
+CR01964,DigitalOcean,system_admin,High-privilege system-level access.,7
+CR01965,Oracle,tenant_admin,Full administrative access within a specific tenant.,8
+CR01966,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,11
+CR01967,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01968,GCP,developer,Developer-level access to compute and storage APIs.,4
+CR01969,GCP,tech_user,Basic operational access for assigned services.,2
+CR01970,GCP,cloud_super_admin,Global privileged control across provider resources.,11
+CR01971,AWS,system_admin,High-privilege system-level access.,9
+CR01972,GCP,tenant_admin,Full administrative access within a specific tenant.,10
+CR01973,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01974,Oracle,system_admin,High-privilege system-level access.,9
+CR01975,Oracle,system_admin,High-privilege system-level access.,7
+CR01976,AWS,tech_user,Basic operational access for assigned services.,2
+CR01977,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,5
+CR01978,Azure,tech_user,Basic operational access for assigned services.,3
+CR01979,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01980,Azure,tenant_admin,Full administrative access within a specific tenant.,9
+CR01981,Azure,read_only,Limited read-only access to cloud resources.,2
+CR01982,Azure,cloud_super_admin,Global privileged control across provider resources.,10
+CR01983,AWS,tenant_admin,Full administrative access within a specific tenant.,8
+CR01984,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01985,Oracle,tenant_admin,Full administrative access within a specific tenant.,9
+CR01986,AWS,tech_user,Basic operational access for assigned services.,3
+CR01987,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01988,Oracle,security_engineer,Access to security monitoring and policy configuration.,5
+CR01989,Oracle,security_engineer,Access to security monitoring and policy configuration.,7
+CR01990,DigitalOcean,cloud_super_admin,Global privileged control across provider resources.,12
+CR01991,AWS,system_admin,High-privilege system-level access.,7
+CR01992,Oracle,cloud_super_admin,Global privileged control across provider resources.,11
+CR01993,AWS,cloud_super_admin,Global privileged control across provider resources.,10
+CR01994,DigitalOcean,tech_user,Basic operational access for assigned services.,3
+CR01995,Azure,security_engineer,Access to security monitoring and policy configuration.,5
+CR01996,Oracle,tech_user,Basic operational access for assigned services.,2
+CR01997,AWS,cloud_super_admin,Global privileged control across provider resources.,11
+CR01998,DigitalOcean,security_engineer,Access to security monitoring and policy configuration.,6
+CR01999,GCP,tenant_admin,Full administrative access within a specific tenant.,9

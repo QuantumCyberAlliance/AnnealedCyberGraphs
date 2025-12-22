@@ -1,0 +1,12 @@
+faker
+numpy
+pandas
+networkx
+tqdm
+pennylane
+pennylane-lightning-gpu
+scipy 
+dwave-samplers 
+dimod
+graphistry
+cupy-cuda12x
