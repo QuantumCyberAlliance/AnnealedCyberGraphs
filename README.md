@@ -29,7 +29,7 @@ We propose a BQM-based model for the Constrained Shortest Path problem:
 
 The solution is implemented in `attack_path_detector_model.ipynb`, building on libraries like PennyLane, D-Wave, and Amplify.
 
-![BQM Formulation Diagram](images/bqm_formulation.png)  
+![BQM Formulation Diagram](images/bqm_formulation.jpeg)  
 *(Diagram showing BQM model construction with flow penalties.)*
 
 ## Dataset
