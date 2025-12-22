@@ -62,7 +62,7 @@ The model was tested on 1108 start-target pairs across zones, focusing on single
 - **Runtime**: ~5-6 hours on all 1108 pairs using Simulated Annealing on CPU/GPU.
 - **Validation Summaries** (from `sas_comparison.csv` and `sqa_comparison_optimal.csv`):
 
-**Ground Truth Validation (Top 10 Samples)**:
+**Ground Truth Validation**:
 | Index | Zone    | Start   | Target  | Match | Reason                          |
 |-------|---------|---------|---------|-------|---------------------------------|
 | 1     | EXTERNAL| N00043 | N00028 | True  | Exact match                     |
